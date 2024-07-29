@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "630253075600",
+    "project_id": "mypens-firebase",
+    "storage_bucket": "mypens-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630253075600:android:24c3cd88eb66485caf2c15",
+        "android_client_info": {
+          "package_name": "com.pens.mypens"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVtpNPv9A4MBK9SWI9b1_qqdiipfQeFT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630253075600:android:85e1f5d85302ad60af2c15",
+        "android_client_info": {
+          "package_name": "com.pens.mypens.debug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVtpNPv9A4MBK9SWI9b1_qqdiipfQeFT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
